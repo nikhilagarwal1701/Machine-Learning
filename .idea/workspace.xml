@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb8cdc2-19b9-4d4a-a8a3-f5f96df70e4b" name="Changes" comment="Unknown files">
+    <list default="true" id="4eb8cdc2-19b9-4d4a-a8a3-f5f96df70e4b" name="Changes" comment="encoding categorical data&#10;splitting into training set and test set">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023 Starting Fresh/1. Data Preprocessing/data_preprocessing_template.R" beforeDir="false" afterPath="$PROJECT_DIR$/2023 Starting Fresh/1. Data Preprocessing/data_preprocessing_template.R" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2023 Starting Fresh/1. Data Preprocessing/data_preprocessing_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023 Starting Fresh/1. Data Preprocessing/data_preprocessing_template.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RunManager">
     <configuration name="data_preprocessing_template" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -121,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679855334003</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="encoding categorical data&#10;splitting into training set and test set">
+      <created>1679932957224</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679932957224</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Unknown files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unknown files" />
+    <MESSAGE value="encoding categorical data&#10;splitting into training set and test set" />
+    <option name="LAST_COMMIT_MESSAGE" value="encoding categorical data&#10;splitting into training set and test set" />
   </component>
 </project>
