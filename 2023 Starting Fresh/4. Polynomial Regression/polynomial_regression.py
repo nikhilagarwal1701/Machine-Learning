@@ -35,7 +35,5 @@ plt.show()"""
 # Predicting the new result with Linear Regression
 """print("Linear Regression predictor: ", linRegressor.predict(6.5))"""
 
-# Predicting the new result with Polynomial Regression
-
+# Predicting the new result with Polynomial Linear Regression
 print("Polynomial Regression predictor: ", linRegressor2.predict(polyRegressor.fit_transform(np.full(1, 1), 6.5)))
-print("Hello")
